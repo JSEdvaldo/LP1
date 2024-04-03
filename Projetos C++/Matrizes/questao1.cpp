@@ -38,5 +38,5 @@ int main(){
 
     preencher_matriz(matriz, linha, coluna);
     imprimir_matriz(matriz, linha, coluna);
-    cout << "O Numero de valores maiores que " << numero << " são: " << maior_que(matriz, linha, coluna, numero);
+    cout << "O Numero de valores maiores que " << numero << " sao: " << maior_que(matriz, linha, coluna, numero);
 }
